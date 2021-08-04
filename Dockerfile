@@ -1,5 +1,5 @@
-# by Stas Prohetamine https://github.com/prohetamine
 FROM ubuntu:18.04
+MAINTAINER "Stas Prohetamine https://github.com/prohetamine"
 COPY "request.sh" "/request.sh"
 RUN apt update && \
     apt upgrade && \
