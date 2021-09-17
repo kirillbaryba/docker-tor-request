@@ -1,6 +1,6 @@
 ![enter image description here](/media/logo.png)
 
-##### README is available in the following languages: [Russian](https://github.com/prohetamine/docker-tor-request/blob/main/README/russian.md) | [English](https://github.com/prohetamine/docker-tor-request/blob/main/README.md)
+##### README доступен на языках: [Russian](https://github.com/prohetamine/docker-tor-request/blob/main/README/russian.md) | [English](https://github.com/prohetamine/docker-tor-request/blob/main/README.md)
 
 
 # docker-tor-request
