@@ -3,7 +3,7 @@
 ##### README доступен на языках: [Russian](https://github.com/prohetamine/docker-tor-request/blob/main/README/russian.md) | [English](https://github.com/prohetamine/docker-tor-request/blob/main/README.md)
 
 
-# docker-tor-request
+# Docker Tor Request
 
 > docker-tor-request - Мой первый докер контейнер 🐳.
 
