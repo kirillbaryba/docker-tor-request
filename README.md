@@ -15,7 +15,7 @@ My experience with docker is terribly small, which means that I have to learn an
 Let's install the container from Docker Hub ```docker-tor-request```
 
 ```sh
-$ docker run docker-tor-request
+$ docker pull prohetamine/docker-tor-request
 ```
 
 Also build
@@ -31,7 +31,7 @@ $ docker build . -t docker-tor-request
 Starting the container and making a request to the server. It is also worth remembering that the query container uses _curl_ to make it easier to create constructs, study the official [documentation] (https://curl.se/docs/).
 
 ```sh
-  docker run docker-tor-request -s https://api.ipify.org
+  docker run prohetamine/docker-tor-request -s https://api.ipify.org
 ```
 
 ### Contacts
