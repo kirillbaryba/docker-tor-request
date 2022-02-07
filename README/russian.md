@@ -21,7 +21,7 @@ $ docker pull prohetamine/docker-tor-request
 Также сборка
 
 ```sh
-$ git clone git@github.com:prohetamine/docker-tor-request.git
+$ git clone https://github.com/prohetamine/docker-tor-request.git
 $ cd docker-tor-request
 $ docker build . -t docker-tor-request
 ```
