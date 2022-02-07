@@ -12,7 +12,7 @@
 
 ### С чего начать
 
-Установим контейнер из Docker Hub ```docker-tor-request```
+Установим контейнер из Docker Hub ```prohetamine/docker-tor-request```
 
 ```sh
 $ docker pull prohetamine/docker-tor-request
