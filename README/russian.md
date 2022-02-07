@@ -15,7 +15,7 @@
 Установим контейнер из Docker Hub ```docker-tor-request```
 
 ```sh
-$ docker run docker-tor-request
+$ docker pull prohetamine/docker-tor-request
 ```
 
 Также сборка
@@ -31,7 +31,7 @@ $ docker build . -t docker-tor-request
 Запуск контейнера и запрос к серверу. Также стоит помнить что контейнер для запросов использует _curl_ чтобы легче создавать конструкции изучите официальную [документацию](https://curl.se/docs/).
 
 ```sh
-  docker run docker-tor-request -s https://api.ipify.org
+  docker run prohetamine/docker-tor-request -s https://api.ipify.org
 ```
 
 ### Контакты
