@@ -12,7 +12,7 @@ My experience with docker is terribly small, which means that I have to learn an
 
 ### Get started
 
-Let's install the container from Docker Hub ```docker-tor-request```
+Let's install the container from Docker Hub ```prohetamine/docker-tor-request```
 
 ```sh
 $ docker pull prohetamine/docker-tor-request
